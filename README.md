@@ -40,7 +40,7 @@ vae.train(X=X_train, batch_size=128, num_iter=20000, step_size=0.01, print_every
 
 ### Result 
 
-![alt text](https://https://github.com/anhtu/VariationalAutoEncoder/files/mnist_digits_2d.png "MNIST digits in 2D")
+![alt text](https://github.com/anhtu/VariationalAutoEncoder/blob/master/files/mnist_digits_2d.png "MNIST digits in 2D")
 
-![alt text](https://https://github.com/anhtu/VariationalAutoEncoder/files/frey_faces_2d.png "Freyface in 2D")
+![alt text](https://github.com/anhtu/VariationalAutoEncoder/blob/master/files/frey_faces_2d.png "Freyface in 2D")
 
